@@ -1,2 +1,2 @@
-# SQL_Repo
+# SQL_REPOSITORY
 Assignment1
